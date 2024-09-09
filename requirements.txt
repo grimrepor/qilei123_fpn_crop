@@ -1,4 +1,4 @@
-Cython
-EasyDict
-opencv-python
-mxnet-cu80==0.12.0b20171027
+Cython==0.29.23
+EasyDict==1.9
+opencv-python==4.5.2.52
+mxnet-cu80==1.5.0
